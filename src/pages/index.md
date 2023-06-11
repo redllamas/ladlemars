@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Sam Ellard
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: Bilingual marketing professional with a passion for innovation
 mainpitch:
   title: Why Kaldi
   description: >
@@ -11,20 +11,17 @@ mainpitch:
     shouldn't just taste good, it should do good too. We source all of our beans
     directly from small scale sustainable farmers and make sure part of the
     profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+description: >
+  Results-driven digital marketing specialist with 9+ years B2B marketing experience. A bilingual professional based in Japan, with native English and near-native Japanese fluency. Demonstrated leadership expertise as head of crossfunctional teams for 5 years, showcasing exceptional problem-solving and coordination abilities in digital marketing, change management, digital transformation and user-centered strategy. Committed to leveraging in-depth marketing knowledge and strong communication skills to drive success for global organizations and their users.
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+    # - image: /img/coffee.png
+    #   text: >
+    #     We sell green and roasted coffee beans that are sourced directly from
+    #     independent farmers and farm cooperatives. We’re proud to offer a
+    #     variety of coffee beans grown with great care for the environment and
+    #     local communities. Check our post or contact us directly for current
+    #     availability.
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
@@ -38,13 +35,13 @@ intro:
         to help. You can schedule a custom 1-on-1 consultation with our baristas
         to learn anything you want to know about coffee roasting and brewing.
         Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+    # - image: /img/meeting-space.png
+    #   text: >
+    #     We believe that good coffee has the power to bring people together.
+    #     That’s why we decided to turn a corner of our shop into a cozy meeting
+    #     space where you can hang out with fellow coffee lovers and learn about
+    #     coffee making techniques. All of the artwork on display there is for
+    #     sale. The full price you pay goes to the artist.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
