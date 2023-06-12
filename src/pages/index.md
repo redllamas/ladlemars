@@ -5,12 +5,9 @@ image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Bilingual marketing professional with a passion for innovation
 mainpitch:
-  title: Why Kaldi
+  title: Who am I?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    A results-driven digital marketing specialist with 9+ years B2B marketing experience. A bilingual professional based in Japan, with native English and near-native Japanese fluency. Demonstrated leadership expertise as head of crossfunctional teams for 5 years, showcasing exceptional problem-solving and coordination abilities in digital marketing, change management, digital transformation and user-centered strategy. Committed to leveraging in-depth marketing knowledge and strong communication skills to drive success for global organizations and their users.
 description: >
   Results-driven digital marketing specialist with 9+ years B2B marketing experience. A bilingual professional based in Japan, with native English and near-native Japanese fluency. Demonstrated leadership expertise as head of crossfunctional teams for 5 years, showcasing exceptional problem-solving and coordination abilities in digital marketing, change management, digital transformation and user-centered strategy. Committed to leveraging in-depth marketing knowledge and strong communication skills to drive success for global organizations and their users.
 intro:
