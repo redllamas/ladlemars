@@ -27,7 +27,11 @@ const Footer = () => {
                         About
                       </Link>
                     </li>
-                  
+                    <li>
+                      <Link className="navbar-item" to="/commercial">
+                        特定商取引に関する法律に基づく表記
+                      </Link>
+                    </li>
                   </ul>
                 </section>
               </div>
@@ -70,9 +74,7 @@ const Footer = () => {
                     alt="Github"
                     style={{ width: "1em", height: "1em" }}
                   />
-                </a>
-                
-                
+                </a>               
               </div>
             </div>
           </div>
